@@ -566,7 +566,7 @@ img {
 .star{
   font-family: "Font Awesome 5 Free";
   font-size: 15px;
-  color: #fc6530;
+  color: #d5d5d5;
 }
 .star:before{
   font-weight: 900;
