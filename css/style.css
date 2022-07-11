@@ -145,7 +145,7 @@ img {
   justify-content: center;
   height: 85vh;
   text-align: center;
-  background-color: #9099a2;
+  background-color: #6d7993;
 }
 
 .mv-container {
@@ -218,7 +218,7 @@ img {
  Skill
 ---------------------------------*/
 .skill{
-  background-color: #9099a2;
+  background-color: #96858f;
 }
 
 .skill-list {
@@ -291,6 +291,7 @@ img {
 ---------------------------------*/
 .contact {
   text-align: center;
+  background-color: #9099a2;
 }
 
 .contact-item:not(:last-child) {
