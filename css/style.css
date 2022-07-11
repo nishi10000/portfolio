@@ -40,7 +40,7 @@ img {
 }
 
 .section:nth-of-type(odd) {
-  background-color: #f7f7f7;
+  background-color: #d5d5d5
 }
 
 .container {
@@ -59,7 +59,7 @@ img {
   margin-bottom: 40px;
   text-align: center;
   letter-spacing: .05em;
-  color: #333;
+  color: #6d7993;
 }
 
 .lead {
@@ -69,7 +69,7 @@ img {
 }
 
 /*--------------------------------
-ヘッダー #fff7f7　#dadada　#204969
+ヘッダー 
 ---------------------------------*/
 .header {
   position: fixed;
@@ -145,7 +145,7 @@ img {
   justify-content: center;
   height: 85vh;
   text-align: center;
-  background-color: #FF0000;
+  background-color: #96858f;
 }
 
 .mv-container {
@@ -188,7 +188,7 @@ img {
   margin-right: 1.58730%;
   margin-bottom: 40px;
   */
-  color: #333;
+  color: #9099a2;
 }
 
 .works-item:hover {
