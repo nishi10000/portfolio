@@ -145,7 +145,7 @@ img {
   justify-content: center;
   height: 85vh;
   text-align: center;
-  background-color: #96858f;
+  background-color: #9099a2;
 }
 
 .mv-container {
@@ -188,7 +188,7 @@ img {
   margin-right: 1.58730%;
   margin-bottom: 40px;
   */
-  color: #9099a2;
+  color: #6d7993;
 }
 
 .works-item:hover {
@@ -222,6 +222,7 @@ img {
   flex-wrap: wrap;
   justify-content: space-between;
   margin-bottom: -50px;
+  background-color: #96858f;
 }
 
 .skill-item {
