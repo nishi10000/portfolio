@@ -8,7 +8,7 @@ body {
 a {
   transition: opacity .3s;
   text-decoration: none;
-  color: #1ca9e3;
+  color: #96858f;
 }
 
 img {
@@ -59,7 +59,7 @@ img {
   margin-bottom: 40px;
   text-align: center;
   letter-spacing: .05em;
-  color: #6d7993;
+  color: #333;
 }
 
 .lead {
@@ -188,7 +188,7 @@ img {
   margin-right: 1.58730%;
   margin-bottom: 40px;
   */
-  color: #6d7993;
+  color: #333;
 }
 
 .works-item:hover {
@@ -217,6 +217,10 @@ img {
 /*--------------------------------
  Skill
 ---------------------------------*/
+.skill{
+  background-color: #9099a2;
+}
+
 .skill-list {
   display: flex;
   flex-wrap: wrap;
@@ -240,6 +244,7 @@ img {
 
 .skill-body {
   flex: 1;
+  
 }
 
 .skill-name {
